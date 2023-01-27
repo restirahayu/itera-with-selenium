@@ -1,0 +1,2 @@
+class locator ():
+    firstname = "FirstName"
